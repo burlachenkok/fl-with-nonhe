@@ -64,6 +64,18 @@ Change the working directory to `"./fl_pytorch/simulation_of_dependence_chain"` 
 
 1. `python digraph.py`
 
-2. Close or save all plots that you will see.
+2. Close or save all plots that you see.
 
 3. Launch `generate_plans.sh` to convert from dot text description to `PDF` that contains detailed plans of execution.
+
+# How to Cite
+
+```
+@inproceedings{burlachenko2023federated,
+  title={Federated Learning is Better with Non-Homomorphic Encryption},
+  author={Burlachenko, Konstantin and Alrowithi, Abdulmajeed and Albalawi, Fahad Ali and Richt{\'a}rik, Peter},
+  booktitle={Proceedings of the 4th international workshop on distributed machine learning},
+  pages={49--84},
+  year={2023}
+}
+```
